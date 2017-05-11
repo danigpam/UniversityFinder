@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#pagina{
+    margin: 0 auto;
+    width: 80%;
+}
+
+/** TITULOS **/
+h1 {
+    text-align: center;
+}
+
+
+/** FORM **/
+label {
+    width: 200px;
+}
